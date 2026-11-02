@@ -6,11 +6,12 @@ I work on demand forecasting for industrial supply chains — materials, orders,
 - Building forecasting systems that end in decisions, not dashboards
 - Making probabilistic forecasts usable by planners
 
-<details>
-<summary><sub>🏅 PaddlePaddle Developer Expert · 2026</sub></summary>
+<div align="center">
 
 <br/>
 
-<img src="./assets/ppde-cert.png" width="300" alt="PaddlePaddle Developer Expert (PPDE) Certificate" />
+<img src="./assets/ppde-cert.png" width="260" alt="PaddlePaddle Developer Expert (PPDE) Certificate" />
 
-</details>
+<sub>PaddlePaddle Developer Expert · 2026</sub>
+
+</div>
