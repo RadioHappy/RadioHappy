@@ -8,5 +8,5 @@ I work on demand forecasting for industrial supply chains — materials, orders,
 
 <details>
 <summary>🏅 PaddlePaddle Developer Expert · 2026</summary>
-<p align="center"><img src="https://raw.githubusercontent.com/RadioHappy/RadioHappy/main/assets/ppde-cert.png" width="300" alt="PaddlePaddle Developer Expert (PPDE) Certificate" /></p>
+<p align="center"><img src="./assets/ppde-cert.png" width="300" alt="PaddlePaddle Developer Expert (PPDE) Certificate" /></p>
 </details>
